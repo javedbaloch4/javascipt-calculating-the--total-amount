@@ -9,7 +9,7 @@ Calculating the total amount of money that the visitor will pay with the selecte
 Design a page for calculating the total amount of money that the visitor will pay with the selected items,
 and their prices. Use the below List of Items table as a reference to design it.
 
-![alt text](https://ibb.co/p1bx68Q][img]https://i.ibb.co/mRbGrw0/Screenshot-from-2021-06-15-03-36-53.png)
+![alt text](https://i.ibb.co/mRbGrw0/Screenshot-from-2021-06-15-03-36-53.png)
 
 
 
